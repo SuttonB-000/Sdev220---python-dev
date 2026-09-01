@@ -1,3 +1,12 @@
+# Sutton Bonte
+# mod2_lab.py
+# python based command line tool, that takes user input for:
+# student info (last name, first name, and GPA) checks gpa
+# for Honor Roll or Deans List and then wites out that 
+# information to a 'grades.txt' and displays the content
+# of that file after the while loop ends
+
+
 #variable declaration
 lastName = ""
 
